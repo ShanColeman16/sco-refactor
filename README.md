@@ -1,1 +1,1 @@
-# sco-refactor
+# seo-refactor
